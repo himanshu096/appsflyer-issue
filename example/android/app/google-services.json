@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "215560436696",
+    "firebase_url": "https://demo1-68a4e.firebaseio.com",
+    "project_id": "demo1-68a4e",
+    "storage_bucket": "demo1-68a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215560436696:android:ad32015c9d3df1303090ad",
+        "android_client_info": {
+          "package_name": "com.appsflyer.appsflyersdkexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215560436696-rjt8r8enb0d7tuma3gtdtkic5uhdr13i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGHF5vbx-O9d7xEF2zf8jSO-8ZI9abaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215560436696-rjt8r8enb0d7tuma3gtdtkic5uhdr13i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215560436696:android:fa9e9643009215073090ad",
+        "android_client_info": {
+          "package_name": "com.plreview.leader_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215560436696-rjt8r8enb0d7tuma3gtdtkic5uhdr13i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGHF5vbx-O9d7xEF2zf8jSO-8ZI9abaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215560436696-rjt8r8enb0d7tuma3gtdtkic5uhdr13i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215560436696:android:6a5b8608c9fb1b5b",
+        "android_client_info": {
+          "package_name": "in.androize.himanshu.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215560436696-rjt8r8enb0d7tuma3gtdtkic5uhdr13i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGHF5vbx-O9d7xEF2zf8jSO-8ZI9abaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215560436696-rjt8r8enb0d7tuma3gtdtkic5uhdr13i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
